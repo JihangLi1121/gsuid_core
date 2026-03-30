@@ -688,3 +688,4 @@ pdm.toml
 gsuid_hub
 
 !gsuid_core/webconsole/dist
+uv.lock
